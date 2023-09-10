@@ -2,7 +2,7 @@
 
 name = "my-first-remix-app"
 client_id = "ffde938bcf21c9c3220bc4a58908e5cc"
-application_url = "https://trails-radical-circuit-solid.trycloudflare.com"
+application_url = "https://jewel-gas-helps-miracle.trycloudflare.com"
 embedded = true
 
 [access_scopes]
@@ -11,9 +11,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://trails-radical-circuit-solid.trycloudflare.com/auth/callback",
-  "https://trails-radical-circuit-solid.trycloudflare.com/auth/shopify/callback",
-  "https://trails-radical-circuit-solid.trycloudflare.com/api/auth/callback"
+  "https://jewel-gas-helps-miracle.trycloudflare.com/auth/callback",
+  "https://jewel-gas-helps-miracle.trycloudflare.com/auth/shopify/callback",
+  "https://jewel-gas-helps-miracle.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
